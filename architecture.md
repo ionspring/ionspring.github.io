@@ -6,22 +6,7 @@ permalink: /architecture
 
 # ionSpring application architecture
 
-```mermaid
-block-beta
-    block
-          columns 2
-          uc("User code"):2
-          block
-            columns 1
-            k("Karibu DSL")
-            v("Vaadin Flow")
-          end
-          sb("Spring Boot")
-    end
-style sb fill: #6db33f
-style v fill: #1e9cd9
-style k fill: #5dbbe9
-```
+![Architecture](/assets/img/architecture.svg)
 
 An ionSpring application is a Spring Boot application first and foremost. It will typically be written in Kotlin and using Vaadin Flow for the user interface, using Karibu DSL for a better Kotlin integration.
 

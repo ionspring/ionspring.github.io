@@ -8,6 +8,8 @@ layout: default
 > ionSpring makes it easy to create web application for IBM i platform.
 >
 > This is not a new framework but rather an opinionated and very light preconfiguration of existing frameworks and some small adapters for IBM i.
+>
+> Open source under Apache Software License 2.0
 
 The following frameworks/libraries are used:
 * [Spring Boot](https://spring.io/projects/spring-boot){:target="_blank"}: the leading Java application framework
