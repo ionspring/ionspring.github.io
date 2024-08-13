@@ -64,3 +64,8 @@ class HomeView : VerticalLayout() {
 * Open [https://localhost:8080](http://localhost:8080" target="_blank">https://localhost:8080){:target="_blank"} in your browser:
 
 ![Getting started](/assets/img/getting-started.gif)
+
+# Where to go next?
+
+* [Project Github repository](https://github.com/ionspring/ionspring)
+* [Examples Github repository](https://github.com/ionspring/ionspring-examples)
